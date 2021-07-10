@@ -1,1 +1,1 @@
-# DiceWars_
+# DiceWar
