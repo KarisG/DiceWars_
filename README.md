@@ -2,4 +2,4 @@
 
 Jeu DiceWars avec et sans interface !
 
-!(Exemple sur console)[]
+!(Exemple sur console)[https://github.com/KarisG/DiceWars_/blob/main/exemple.png]
